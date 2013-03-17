@@ -1,4 +1,4 @@
-web
+Web
 ===
 
-rails web playground
+Rails web playground!
